@@ -14,7 +14,7 @@ Team:
 <br/>
 Technologies:
 <br/>
-Database: <a href="https://www.microsoft.com/en-us/sql-server">Microsoft SQL Server</a>
+Database: <a href="https://www.postgresql.org/">PostgreSQL</a>
 <br/>
 Frontend: <a href="https://reactjs.org/">React.js</a>
 <br/>
