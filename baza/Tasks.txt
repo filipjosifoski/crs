@@ -1,6 +1,28 @@
 Da se izbrishi od tabela competitor polete sport_id i namesto toa 
 da se koristi tabela competitor_sport. 
 
-Posle promenata da se napravi polnenje na tabelata odnovo spored novata
+Posle promenata da se napravi polnenje na tabelite odnovo spored novata
 struktura.
 
+
+Proverki:
+
+1. Za natprevar:
+
+  1. Dali moze da se napravi selekcija na site natprevaruvaci prijaveni od odreden klub
+  2. Dali moze da se napravi selekcija na site natprevaruvaci prijaveni vo odredena Starosna kategorija : pr izlistaj gi site natprevaruvaci bezrazlika na pol i kilaza koj se prijavnei vo Seniorski kategorii
+  3. Dali moze da se napravi selekcija na site natprevaruvaci prijaveni po pol
+  4. Dali moze da se napravi selekcija na site natprevaruvaci prijaveni po tezinska kategorija
+  5. Dali moze da se napravi selekcija na site natprevaruvaci prijaveni vo celosno odredena kategorija ( so cat_id ko so go naprajvme primerot so dragan i ado
+  
+2. Za Klub/Natprevaruvaci
+
+ 1. Dali moze da se selektiraat site natprevaruvaci od odreden klub
+ 2. Dali moze da se selektiraat site natprevaruvaci od odreden klub vo odreden sport
+ 3. Dali moze da se selektiraat site natprevaruvaci od odreden sport od bilo koj klub
+ 
+3. Za kategorii
+  
+  1. Dali moze da se selektiraat site kategorii od odreden sport
+  2. Dali moze da se selektiraat site kategorii od od odredena starosna kategorija
+  ...
