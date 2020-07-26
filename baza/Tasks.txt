@@ -1,0 +1,6 @@
+Da se izbrishi od tabela competitor polete sport_id i namesto toa 
+da se koristi tabela competitor_sport. 
+
+Posle promenata da se napravi polnenje na tabelata odnovo spored novata
+struktura.
+
